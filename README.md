@@ -7,3 +7,5 @@
 # git clone https://github.com/afghan308/waciq-clone.git
 # cd waciq-clone
 # Is
+# python waciq-clone.py
+# created by Waciq King
