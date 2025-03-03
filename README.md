@@ -6,4 +6,4 @@
 # pkg install git
 # git clone https://github.com/afghan308/waciq-clone.git
 # cd waciq-clone
-Is
+# Is
