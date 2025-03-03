@@ -4,4 +4,6 @@
 # pkg install python
 # pkg install python2
 # pkg install git
-# git clone
+# git clone https://github.com/afghan308/waciq-clone.git
+# cd waciq-clone
+Is
